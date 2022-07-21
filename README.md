@@ -1,5 +1,6 @@
-##only works in chrome
-##this is a copy pen by  jon katner
-## Clippath works as
-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
- by intializing a polygon to make changes;
+# Loading Icons
+ 
+ - This repo is for loading icons made on completely css.
+ - You can check there GIf in there README.md 
+
+ ....
