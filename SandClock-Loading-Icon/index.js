@@ -1,0 +1,1 @@
+//  Css based project doesn't require js.
